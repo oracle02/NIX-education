@@ -12,3 +12,7 @@ body  a {
     color: inherit;
 }
 
+table tr {
+    color: green;
+}
+

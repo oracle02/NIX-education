@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="css/style.css">
  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">	
 	<title>Document</title>
 </head>
@@ -50,12 +50,14 @@
 	<div class="container">
 <ul class="list-group">
   <li class="list-group-item"><a href="lesson1.php">Урок1</a></li>
-  <li class="list-group-item"><a href="lesson1.php">Урок2</a></li>
+  <li class="list-group-item"><a href="lesson2.php">Урок2</a></li>
   <li class="list-group-item"><a href="lesson1.php">Урок3</a></li>
   <li class="list-group-item"><a href="lesson1.php">Урок4</a></li>
   <li class="list-group-item"><a href="lesson1.php">Урок5</a></li>
   </ul>
 </div>
+
+
 
 	<!-- Footer -->
 <footer class="page-footer font-small blue pt-4">

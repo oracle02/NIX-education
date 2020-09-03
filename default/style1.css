@@ -1,0 +1,21 @@
+.first {
+    color: yellow;
+}
+.second {
+    color: red;
+}
+
+
+table {
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+    border-left: 2px solid gray;
+    border-collapse: collapse;
+}
+
+table td {
+    border-right: 2px solid gray;
+}
+tbody {
+    border-top:2px solid gray;
+}
