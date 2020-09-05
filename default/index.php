@@ -51,8 +51,8 @@
 <ul class="list-group">
   <li class="list-group-item"><a href="lesson1.php">Урок1</a></li>
   <li class="list-group-item"><a href="lesson2.php">Урок2</a></li>
-  <li class="list-group-item"><a href="lesson1.php">Урок3</a></li>
-  <li class="list-group-item"><a href="lesson1.php">Урок4</a></li>
+  <li class="list-group-item"><a href="lesson3.php">Урок3</a></li>
+  <li class="list-group-item"><a href="regular_expressions_test.php">Урок4</a></li>
   <li class="list-group-item"><a href="lesson1.php">Урок5</a></li>
   </ul>
 </div>
